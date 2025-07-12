@@ -48,3 +48,11 @@ void LEDtoggle() { /* Toggle Red & Green */ }
 void LEDsetState(int red, int green) { /* Set LED state */ }
 void RFIDgrantAccess() { /* Grant access */ }
 void RFIDungrantAccess() { /* Ungrant access */ }
+```
+
+# Debugging
+- Serial Monitor set to 250000 baud. Shows UID of card & LED states.
+
+**License**: MIT
+
+Thanks for reading! 
